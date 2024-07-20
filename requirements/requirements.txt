@@ -3,7 +3,7 @@ matplotlib>=3.5.3
 numpy<=1.26.4
 rliable @ git+https://github.com/google-research/rliable
 seaborn
-pandas==1.4.4
+pandas>=1.52
 Jinja2
 importlib-metadata<5.0
 colorama
